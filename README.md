@@ -1,1 +1,11 @@
-# Unit-3-01
+# Sample Project
+
+## List
+- pineapple
+- mango
+- apple
+
+## Code
+```python
+def hello_world():
+    print("Hello, world!!")
