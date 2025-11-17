@@ -26,7 +26,7 @@ If someone violates the code, maintainers may take actions including:
 - Temporary or permanent banning from the project
 
 ## Reporting
-To report an incident, contact the maintainers at: **maintainers@example.com**
+To report an incident, contact the maintainers at: **vinayharihar28@gmail.com**
 Please include: a link to the content, a description of what happened, and any relevant context.
 
 ## Attribution
